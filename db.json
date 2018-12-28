@@ -1,0 +1,22 @@
+{
+"products" :[{"id":1,"name":"Dassie","category":"Aquamarine"},
+{"id":2,"name":"Bunting, crested","category":"Fuscia"},
+{"id":3,"name":"Four-horned antelope","category":"Violet"},
+{"id":4,"name":"Hartebeest, coke's","category":"Puce"},
+{"id":5,"name":"Roseat flamingo","category":"Maroon"},
+{"id":6,"name":"Eurasian hoopoe","category":"Khaki"},
+{"id":7,"name":"Red hartebeest","category":"Indigo"},
+{"id":8,"name":"Two-banded monitor","category":"Violet"},
+{"id":9,"name":"Kangaroo, black-faced","category":"Mauv"},
+{"id":10,"name":"Horned puffin","category":"Fuscia"},
+{"id":11,"name":"Spurfowl, yellow-necked","category":"Crimson"},
+{"id":12,"name":"Asian false vampire bat","category":"Turquoise"},
+{"id":13,"name":"Pied crow","category":"Green"},
+{"id":14,"name":"Parrot, hawk-headed","category":"Aquamarine"},
+{"id":15,"name":"Bateleur eagle","category":"Crimson"},
+{"id":16,"name":"Parrot, hawk-headed","category":"Red"},
+{"id":17,"name":"Ibex","category":"Puce"},
+{"id":18,"name":"Lemur, sportive","category":"Goldenrod"},
+{"id":19,"name":"Cobra, egyptian","category":"Green"},
+{"id":20,"name":"Badger, honey","category":"Puce"}]
+}
